@@ -1,4 +1,4 @@
-print("Bienvenue sur ma calculatrice matricielle !")
+print("Bienvenue sur la première version de ma calculatrice matricielle !")
 
 print("Saisissez les dimensions de la première matrice")
 row1 = int(input("ligne(s) : "))
